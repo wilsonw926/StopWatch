@@ -1,5 +1,5 @@
 # Lab 3 : Stopwatch #
-![alt text](/README-images/preview.png)
+![alt text](/README-images/StopWatch.png)
 
 ## Due Date ##
 Tuesday, February 21st at 11:59 pm
